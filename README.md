@@ -1,6 +1,6 @@
 # 🟢 Spotify Clown 🎧
 
-![Spotify Clown Banner](media/banner1.png)
+![Spotify Clown Banner](media/Banner1.png)
 
 A Spotify-inspired frontend UI built using React.
 
